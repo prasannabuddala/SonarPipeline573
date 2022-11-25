@@ -6,13 +6,13 @@ package Sonar573.AcoeSonarPip573;
  */
 public class App 
 {
-	public static int sum(int a,int b){
-    	return (a+b);
-    }
     public static void main( String[] args )
     {
-    	int var=sum(25,215);
         System.out.println( "Hello World!" );
-        System.out.print(var);
+        int a;
+        a=2;
+        a=+5;
+        System.out.println(a);
     }
+    
 }
